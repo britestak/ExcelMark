@@ -1,0 +1,24 @@
+{
+  "name": "excelmark",
+  "version": "1.0.0",
+  "description": "A Node.js application to convert Excel files into Markdown tables.",
+  "main": "excelToMarkDown.js",
+  "scripts": {
+    "start": "node excelToMarkDown.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/ExcelMark.git"
+  },
+  "keywords": [
+    "excel",
+    "markdown",
+    "converter",
+    "nodejs"
+  ],
+  "author": "Britestak",
+  "license": "MIT",
+  "dependencies": {
+    "xlsx": "^0.17.0"
+  }
+}
