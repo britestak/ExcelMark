@@ -32,7 +32,7 @@ The Markdown table will be printed to the console & even **outputMarkDown.md** w
 
 ## Sample Excel File
 
-A sample Excel file, `sample.xlsx`, is included in this repository to demonstrate the functionality of ExcelMark. You can use this file to test the application or as a template for your own data.
+A sample Excel file, `sampleExcel.xlsx`, is included in this repository to demonstrate the functionality of ExcelMark. You can use this file to test the application or as a template for your own data.
 
 ## Contributing
 
