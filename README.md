@@ -20,7 +20,7 @@ npm install
 
 ## Usage
 
-1. Place your Excel file (e.g., `sample.xlsx`) in the project directory.
+1. Place your Excel file (e.g., `sampleExcel.xlsx`) in the project directory.
 2. Edit `excelToMarkDown.js` and specify the path to your Excel file.
 3. Run the script:
 
